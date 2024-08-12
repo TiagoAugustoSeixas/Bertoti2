@@ -7,5 +7,8 @@ A engenharia de Software é o campo de desenvolvimento de software que não envo
 3 EXEMPLOS DE TRADEOFFS:
 
 WINDOWS SERVER- Troca confiança de processamento e eficiencia por usabilidade e fácil acesso ao público;
+
 NETFLIX - Troca escalabilidade e latência por complexidade de funcionamento;
+
 PYTHON - troca facilidade de programação por velocidade de processamento relacionado ao hardware;
+
